@@ -27,7 +27,7 @@ require (
 	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de
 	github.com/aws/aws-sdk-go v1.44.118
 	github.com/clbanning/mxj v1.8.4
-	github.com/crewjam/saml v0.4.13
+	github.com/crewjam/saml v0.4.14
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc
 	github.com/dimchansky/utfbom v1.1.1
 	github.com/dustin/go-humanize v1.0.0
@@ -41,7 +41,7 @@ require (
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/csrf v1.6.2
-	github.com/gorilla/schema v1.1.0
+	github.com/gorilla/schema v1.4.1
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.16.0
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hillu/go-ntdll v0.0.0-20220801201350-0d23f057ef1f
@@ -80,14 +80,14 @@ require (
 	go.starlark.net v0.0.0-20230525235612-a134d8f9ddca
 	golang.org/x/crypto v0.32.0
 	golang.org/x/mod v0.17.0
-	golang.org/x/net v0.25.0
+	golang.org/x/net v0.33.0
 	golang.org/x/sys v0.29.0
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.3.0
 	google.golang.org/api v0.126.0
 	google.golang.org/genproto v0.0.0-20230530153820-e85fd2cbaebc // indirect
-	google.golang.org/grpc v1.55.0
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/grpc v1.56.3
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df
@@ -126,7 +126,7 @@ require (
 	github.com/glaslos/tlsh v0.2.0
 	github.com/go-errors/errors v1.4.2
 	github.com/golang-jwt/jwt/v4 v4.5.1
-	github.com/golang/protobuf v1.5.3
+	github.com/golang/protobuf v1.5.4
 	github.com/google/gopacket v1.1.19
 	github.com/hashicorp/go-retryablehttp v0.7.7
 	github.com/hillu/go-archive-zip-crypto v0.0.0-20200712202847-bd5cf365dd44
@@ -165,7 +165,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cavaliergopher/cpio v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/cloudflare/circl v1.1.0 // indirect
+	github.com/cloudflare/circl v1.3.7 // indirect
 	github.com/crewjam/httperr v0.2.0 // indirect
 	github.com/danwakefield/fnmatch v0.0.0-20160403171240-cbb64ac3d964 // indirect
 	github.com/dlclark/regexp2 v1.7.0 // indirect
